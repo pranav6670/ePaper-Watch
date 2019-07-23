@@ -9,8 +9,8 @@
 
 | Altitude     | Pressure     | Thermometer      | 
 |------------|-------------| -------------|
-| <img src="ALTITUDE-OF-A-TRIANGLE.jpg" height="50" width="50"/>
- |  <img src="pressure.jpg" height="50" width="50"/> | <img src="thermometer-icon-.jpg" height="50" width="50"/> |
+| <img src="ALTITUDE-OF-A-TRIANGLE.jpg" height="100" width="100"/> |
+ <img src="pressure.jpg" height="100" width="100"/> | <img src="thermometer-icon-.jpg" height="100" width="100"/> |
 
 
  
