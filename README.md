@@ -28,7 +28,7 @@
 
 ## How to
 
-Just plug in any arduino device make the connections. Open the `/test_watchos/test_watchos.ino` in the Arduino IDE and uploa to the selected device.
+Just plug in any arduino device make the connections. Open the `/test_watchos/test_watchos.ino` in the Arduino IDE and upload to the selected device.
 
 ---
 
