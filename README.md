@@ -7,10 +7,12 @@
 
 ## Images used
 
-| Altitude     | Pressure     | Thermometer      | 
-|------------|-------------| -------------|
-| <img src="ALTITUDE-OF-A-TRIANGLE.jpg" height="100" width="100"/> |
- <img src="pressure.jpg" height="100" width="100"/> | <img src="thermometer-icon-.jpg" height="100" width="100"/> |
+<p float="left">
+ <img src="ALTITUDE-OF-A-TRIANGLE.jpg" height="100" width="100"/>  
+ <img src="pressure.jpg" height="100" width="100"/>
+ <img src="thermometer-icon-.jpg" height="100" width="100"/>
+</p>
+
 
 
  
