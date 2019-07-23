@@ -32,11 +32,11 @@ Just plug in any arduino device make the connections. Open the `/test_watchos/te
 
 ### Breadboard implementation  
 
-<img src=" images/IMG-5317.JPG" height="600" width="600"/>
+<img src="images/IMG-5317.JPG"/>
 
 ### Actual Implementation    
 
-<img src="images/IMG-6057.JPG" height="600" width="600"/>
+<img src="images/IMG-6057.JPG"/>
  
 
 
