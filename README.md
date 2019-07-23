@@ -8,9 +8,9 @@
 ## Images used
 
 <p float="left">
- <img src="ALTITUDE-OF-A-TRIANGLE.jpg" height="100" width="100"/>  
- <img src="pressure.jpg" height="100" width="100"/>
- <img src="thermometer-icon-.jpg" height="100" width="100"/>
+ <img src="ALTITUDE-OF-A-TRIANGLE.jpg" height="180" width="180"/>  
+ <img src="pressure.jpg" height="180" width="180"/>
+ <img src="thermometer-icon-.jpg" height="180" width="180"/>
 </p>
 
 
