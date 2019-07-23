@@ -1,7 +1,15 @@
 # ePaper-Watch
 
-<div>
-  <video autoplay="true" loop="true" muted>
-    <source src="//vimeo-hp-videos.global.ssl.fastly.net/3/3.mp4">
-  </video>
-</div>
+## File Description
+
+1. `/test_watchos/test_watchos.ino` - The main code.
+2. `hum.h`, `ht.h`, `press.h`, `thermo.h`, `watchface.h` - The header files containing the images in arrays.
+
+## Images used
+
+|------------|---------|---------|
+| <img src="ALTITUDE-OF-A-TRIANGLE.jpg" />
+  | <img src="pressure.jpg" />
+ | <img src="thermometer-icon-.jpg" />
+| 
+ 
