@@ -7,9 +7,13 @@
 
 ## Images used
 
-|------------|---------|---------|
+| Altitude     | Pressure     | Thermometer      | 
+|------------|-------------| -------------|
 | <img src="ALTITUDE-OF-A-TRIANGLE.jpg" />
-  | <img src="pressure.jpg" /> |
- <img src="thermometer-icon-.jpg" />
-| 
+ |  <img src="pressure.jpg" /> | <img src="thermometer-icon-.jpg" /> |
+
+
+ 
+
+
  
