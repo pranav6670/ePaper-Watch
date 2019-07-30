@@ -21,7 +21,7 @@
 
 1. Esp8266
 2. [e-Ink display](https://www.aliexpress.com/item/1-54inch-e-Paper-Module-200-200-E-Ink-Display-Screen-SPI-Wide-Viewing-Angle-Supports/32839190925.html) 1.54 inch (200*200 pixels) 
-3. DHT11 hunidity sensor
+3. DHT11 humidity, temperature sensor
 4. BMP180 pressure sensor
 
 ---
